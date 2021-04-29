@@ -4,12 +4,15 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  background: teal;
+  color: #fff
 }
 
 .App-logo {
   height: 40vmin;
   border-radius: 100%;
   cursor: pointer;
+  padding-bottom: 2rem;
 }
 
 .App-logo:hover {

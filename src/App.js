@@ -15,9 +15,9 @@ function App() {
 					alt='logo'
 					onClick={() => annapurnaSays()}
 				/>
-				<p>
+				<h2>
 					Hi! My name is <strong>Annapurna</strong> and I'm a persian cat.
-				</p>
+				</h2>
 			</div>
 		</div>
 	)
