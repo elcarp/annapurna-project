@@ -1,24 +1,17 @@
-import logo from './logo.png';
-import './App.css';
+import annapurna from './annapurna.jpg'
+import './App.css'
 
 function App() {
 	return (
 		<div className='App'>
-			<header className='App-header'>
-				<img src={logo} className='App-logo' alt='logo' />
+			<div>
+				<img src={annapurna} className='App-logo' alt='logo' />
 				<p>
-					Edit <code>src/App.js</code> and save to reload.
+					Hi! My name is <strong>Annapurna</strong> and I'm a persian cat.
 				</p>
-				<a
-					className='App-link'
-					href='https://reactjs.org'
-					target='_blank'
-					rel='noopener noreferrer'>
-					The Annapurna Project
-				</a>
-			</header>
+			</div>
 		</div>
-	);
+	)
 }
 
-export default App;
+export default App
