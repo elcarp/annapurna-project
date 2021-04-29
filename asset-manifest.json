@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/annapurna-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/annapurna-project/static/js/main.f2898df9.chunk.js",
-    "main.js.map": "/annapurna-project/static/js/main.f2898df9.chunk.js.map",
+    "main.css": "/annapurna-project/static/css/main.9ccf0f8e.chunk.css",
+    "main.js": "/annapurna-project/static/js/main.d79466f3.chunk.js",
+    "main.js.map": "/annapurna-project/static/js/main.d79466f3.chunk.js.map",
     "runtime-main.js": "/annapurna-project/static/js/runtime-main.0e165f8a.js",
     "runtime-main.js.map": "/annapurna-project/static/js/runtime-main.0e165f8a.js.map",
     "static/js/2.a3d5a1b9.chunk.js": "/annapurna-project/static/js/2.a3d5a1b9.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.8d196c27.chunk.js": "/annapurna-project/static/js/3.8d196c27.chunk.js",
     "static/js/3.8d196c27.chunk.js.map": "/annapurna-project/static/js/3.8d196c27.chunk.js.map",
     "index.html": "/annapurna-project/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/annapurna-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.9ccf0f8e.chunk.css.map": "/annapurna-project/static/css/main.9ccf0f8e.chunk.css.map",
     "static/js/2.a3d5a1b9.chunk.js.LICENSE.txt": "/annapurna-project/static/js/2.a3d5a1b9.chunk.js.LICENSE.txt",
-    "static/media/logo.576eab3e.png": "/annapurna-project/static/media/logo.576eab3e.png"
+    "static/media/annapurna.6dca527b.jpg": "/annapurna-project/static/media/annapurna.6dca527b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e165f8a.js",
     "static/js/2.a3d5a1b9.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f2898df9.chunk.js"
+    "static/css/main.9ccf0f8e.chunk.css",
+    "static/js/main.d79466f3.chunk.js"
   ]
 }
